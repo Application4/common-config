@@ -15,4 +15,4 @@ microservice:
         uri : http://USER-SERVICE/users/ 
 
 test:
-  value: 2
+  value: 3
